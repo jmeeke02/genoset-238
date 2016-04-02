@@ -1,6 +1,6 @@
 {
   "name": "genoset-238",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "You may have one of the SNPs linked to red hair.",
   "main": "index.js",
   "scripts": {

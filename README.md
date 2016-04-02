@@ -6,7 +6,7 @@
 </tr>
 <tr>
 <td>Description</td>
-<td>This links to red hair per <a href="http://www.snpedia.com/index.php/Gs238">gs236</a>.</td>
+<td>This links to red hair per <a href="http://www.snpedia.com/index.php/Gs238">gs238</a>.</td>
 </tr>
 <tr>
 <td>Node Version</td>
@@ -21,7 +21,7 @@ This genoset is to be used with DNA-JSON. See the [dna2json](https://github.com/
 ## Usage
 
 ```javascript
-var redHair = require('genoset-236');
+var redHair = require('genoset-238');
 var dna = require('./my-dna.json');
 
 console.log(redHair(dna)); // true or false
